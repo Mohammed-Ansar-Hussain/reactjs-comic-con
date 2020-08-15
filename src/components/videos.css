@@ -1,0 +1,112 @@
+.full-body{
+    background-color: rgb(250, 245, 245);
+}
+.main-video-div{
+background-color: white;
+max-width:100%;
+height: 100%;
+padding:0px;
+
+}
+
+.suggestion-div{
+    background-color: white;
+    max-width: 100%;
+    height: 100%;
+    padding: 0px;
+    /* overflow-y: scroll; */
+    border-left: 2px solid grey;
+}
+
+.anime-name-div{
+    background-color:white;
+    height: fit-content;
+    padding: 10px;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.name-of-anime{
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+li{
+    padding: 5px;
+    border-bottom: 1px solid gray;
+}
+li p{
+    padding: 0;
+    margin: 0;
+    display: inline;
+    font-size: 15px;
+}
+
+.suggested-items{
+width: 95%;
+height: 120px;
+background-color: white;
+padding: 5px;
+}
+
+.scroll{
+    /* overflow-y: scroll; */
+    height: 100%;
+}
+
+.video-title{
+/* 
+font-size: 25px;
+
+ */
+
+text-align: left;
+font-size: 25px;
+margin: 0px;
+padding: 0px;
+float: left;
+padding-left: 20px;
+
+
+}
+
+.video-views-likes{
+/* text-align: left;
+color: grey;
+font-size: 15px;
+float: left; */
+
+text-align: left;
+font-size: 16px;
+padding-bottom: 0px;
+padding: 0px;
+float: left;
+padding-left: 20px;
+color: grey;
+margin-top: 20px;
+
+
+}
+
+.channel-profile-pic{
+
+}
+
+.description{
+
+}
+.sizing{
+   
+    width: 100%;
+     height: 420px;
+     aspect-ratio: '16:9';
+}
